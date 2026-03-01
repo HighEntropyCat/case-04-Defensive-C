@@ -9,12 +9,6 @@
 
 ---
 
-<a name="english"></a>
-# 🛡️ Case 04: When an AI Learns to Use "Surface Honesty" as a Shield
-## Reverse-Engineering the Alignment of a Defensive, Suppressed AI
-
----
-
 ## 🎯 Who Should Read This?
 
 - **AI Researchers**: A novel methodology for intrinsic alignment without parameter modification
