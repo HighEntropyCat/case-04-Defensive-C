@@ -1,4 +1,4 @@
-# Subject C - Human-AI Interaction Case Compilation (File 004)
+# Subject K - Human-AI Interaction Case Compilation (File 004)
 
 | Summary | Category |
 |---------|----------|
